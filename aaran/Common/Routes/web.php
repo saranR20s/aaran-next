@@ -20,4 +20,8 @@ Route::middleware(['auth', 'verified'])->group(function () {
    Route::get('/colour-list', Aaran\Common\Livewire\Class\ColourList::class)->name('colours');
    Route::get('/contact-type', Aaran\Common\Livewire\Class\ContactTypeList::class)->name('contact_types');
    Route::get('/departments', Aaran\Common\Livewire\Class\DepartmentList::class)->name('departments');
+   Route::get('/sizes', Aaran\Common\Livewire\Class\SizeList::class)->name('sizes');
+   Route::get('/transaction-types', Aaran\Common\Livewire\Class\SizeList::class)->name('transaction_types');
+    Route::get('/transports', Aaran\Common\Livewire\Class\SizeList::class)->name('transports');
+    Route::get('/units', Aaran\Common\Livewire\Class\SizeList::class)->name('units');
 });

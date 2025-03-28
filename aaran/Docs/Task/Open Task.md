@@ -26,10 +26,10 @@
 - Hsncode - @Srihari - completed ✅ on 27.03.2025
 - PaymentMode - @Srihari - completed  ✅ on 27.03.2025
 - ReceiptType - @Srihari - completed  ✅ on 27.03.2025
-- Size
-- TransactionType
-- Transport
-- Unit
+- Size - Completed ✅ on 28.03.2025
+- TransactionType - Completed ✅ on 28.03.2025
+- Transport - Completed ✅ on 28.03.2025
+- Unit - Completed ✅ on 28.03.2025
 
 
 # Job -2 Website models
